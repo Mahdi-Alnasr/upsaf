@@ -7,7 +7,7 @@ type upsaf in your terminal / shell, then upsaf will run directly
 
 # How to install it ?
 download the upsaf.sh from the repository \
-run the command \
+run the command
 ```bash
 sudo cp /path/to/your/upsaf.sh /usr/local/bin/upsaf
 ```
