@@ -1,5 +1,5 @@
 # upsaf ( Update System, AUR, and Flatpak )
-A CLI Bash script to update CachyOS system, AUR, and Flatpak packages \
+A Bash script to update CachyOS system, AUR, and Flatpak packages \
 it runs cachyos-rate-mirrors, then paru, then flatpak update, and at the end it will give you a list of all updated packages
 
 # How to use it ?
