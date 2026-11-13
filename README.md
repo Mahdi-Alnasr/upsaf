@@ -5,6 +5,15 @@ it runs cachyos-rate-mirrors, then paru, then flatpak update, and at the end it 
 # How to use it ?
 type upsaf in your terminal / shell, then upsaf will run directly
 
+# Dependencies
+paru \
+cachyos-rate-mirrors \
+flatpak \
+to install them:
+```
+sudo pacman -Syu paru flatpak cachyos-rate-mirrors
+```
+
 # How to install it ?
 download the upsaf.sh from the repository \
 run the command
