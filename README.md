@@ -9,6 +9,7 @@ type upsaf in your terminal / shell, then upsaf will run directly
 download the upsaf.sh from the repository \
 run the command
 ```bash
+sudo chmod +x /path/to/your/upsaf.sh
 sudo cp /path/to/your/upsaf.sh /usr/local/bin/upsaf
 ```
 change ( /path/to/your/upsaf.sh ) to the actual path where you saved the upsaf.sh file
